@@ -23,7 +23,7 @@ builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
-app.UseMiddleware<Excepti onMiddleware>();
+app.UseMiddleware<ExceptionMiddleware>();
 
  app.UseStatusCodePagesWithReExecute("/errors/{0}");
 
