@@ -1885,32 +1885,33 @@
     ]
   },
   "packageFolders": {
-    "/Users/Spencer/.nuget/packages/": {}
+    "/Users/spencerrobinson/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Spencer/Desktop/e-commerce/demo/skinet/API/API.csproj",
+      "projectUniqueName": "/Users/spencerrobinson/Documents/netAngularPracticeCommerce/e-commerce/demo/skinet/API/API.csproj",
       "projectName": "API",
-      "projectPath": "/Users/Spencer/Desktop/e-commerce/demo/skinet/API/API.csproj",
-      "packagesPath": "/Users/Spencer/.nuget/packages/",
-      "outputPath": "/Users/Spencer/Desktop/e-commerce/demo/skinet/API/obj/",
+      "projectPath": "/Users/spencerrobinson/Documents/netAngularPracticeCommerce/e-commerce/demo/skinet/API/API.csproj",
+      "packagesPath": "/Users/spencerrobinson/.nuget/packages/",
+      "outputPath": "/Users/spencerrobinson/Documents/netAngularPracticeCommerce/e-commerce/demo/skinet/API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/Spencer/.nuget/NuGet/NuGet.Config"
+        "/Users/spencerrobinson/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/Spencer/Desktop/e-commerce/demo/skinet/Infrastructure/Infrastructure.csproj": {
-              "projectPath": "/Users/Spencer/Desktop/e-commerce/demo/skinet/Infrastructure/Infrastructure.csproj"
+            "/Users/spencerrobinson/Documents/netAngularPracticeCommerce/e-commerce/demo/skinet/Infrastructure/Infrastructure.csproj": {
+              "projectPath": "/Users/spencerrobinson/Documents/netAngularPracticeCommerce/e-commerce/demo/skinet/Infrastructure/Infrastructure.csproj"
             }
           }
         }
